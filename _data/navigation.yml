@@ -1,0 +1,75 @@
+main:
+  - title: Home
+    url: /
+  - title: Math Club
+    url: /mathclub.html
+  - title: Programs
+    url: /programs.html
+  - title: Fees
+    url: /pricing.html
+  - title: About
+    url: /about.html
+  - title: Contact
+    url: /contact.html
+  - title: Register
+    url: /register.html
+    cta: true
+
+demo:
+  - title: Prep–2 Demo
+    url: /demo/Prep%E2%80%932/
+  - title: Years 3–6 Demo
+    url: /demo/3-6/
+  - title: Years 7–10 Demo
+    url: /demo/7-10/
+  - title: Years 11–12 Demo
+    url: /demo/11-12/
+
+footer_quicklinks:
+  - title: Programs
+    url: /programs.html
+  - title: Fees
+    url: /pricing.html
+  - title: Register
+    url: /register.html
+  - title: Enquiry
+    url: /enquiry.html
+  - title: Policies
+    url: /policies.html
+  - title: Contact
+    url: /contact.html
+  - title: Demo lessons
+    url: /demo/
+
+main_vi:
+  - title: Trang chủ
+    url: /vi/
+  - title: Câu lạc bộ Toán
+    url: /vi/mathclub.html
+  - title: Chương trình
+    url: /vi/programs.html
+  - title: Học phí
+    url: /vi/pricing.html
+  - title: Giới thiệu
+    url: /vi/about.html
+  - title: Liên hệ
+    url: /vi/contact.html
+  - title: Đăng ký
+    url: /vi/register.html
+    cta: true
+
+footer_quicklinks_vi:
+  - title: Chương trình
+    url: /vi/programs.html
+  - title: Học phí
+    url: /vi/pricing.html
+  - title: Đăng ký
+    url: /vi/register.html
+  - title: Tư vấn
+    url: /vi/enquiry.html
+  - title: Chính sách
+    url: /vi/policies.html
+  - title: Liên hệ
+    url: /vi/contact.html
+  - title: Bài học demo
+    url: /demo/
